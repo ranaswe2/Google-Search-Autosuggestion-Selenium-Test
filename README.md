@@ -13,6 +13,6 @@
 ## Dependencies
 -> Selenium \
 -> openpyxl \
--> Chrome Driver \
+-> Chrome Driver 
 
 ![view](search.png)
